@@ -8,10 +8,10 @@ Though, Gogs migrate repos without issues(including milestones/labels/comments)
 This simple migrator may help.
 
 
-###now:
+### now:
 you can migrate your Github issues to your own Gogs server.
 
-###future:
+### future:
 migrate Gogs issues back to Github.
 
 ## Usage
