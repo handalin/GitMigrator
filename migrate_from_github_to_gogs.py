@@ -29,7 +29,6 @@ if __name__ == '__main__':
                     owner = OWNER,
                     repo = REPO)
 
-    clear_tables()
     print '[START] migration start.'
 
     print '#' * 20
